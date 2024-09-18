@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "Title": "Go for a run",
+        "Completed": false,
+        "CreatedAt": "2024-09-18T23:23:54.654004314+07:00",
+        "CompletedAt": null
+    },
+    {
+        "Title": "Buy Mbappe",
+        "Completed": true,
+        "CreatedAt": "2024-09-18T23:25:15.258142317+07:00",
+        "CompletedAt": "2024-09-18T23:26:25.198918357+07:00"
+    },
+    {
+        "Title": "Bangkit Cohort",
+        "Completed": false,
+        "CreatedAt": "2024-09-18T23:27:16.474237685+07:00",
+        "CompletedAt": null
+    }
+]
